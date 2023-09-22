@@ -40,7 +40,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Uploading the specific files onto the repository. 
 ## License
 
     Copyright [2023] [Heeba Eddouh]
